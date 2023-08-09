@@ -1,0 +1,29 @@
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\bin\Debug\Araba_yarisi.exe.config
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\bin\Debug\Araba_yarisi.exe
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\bin\Debug\Araba_yarisi.pdb
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.Form1.resources
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.Properties.Resources.resources
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.exe
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.pdb
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\bin\Debug\Araba_yarisi.exe.config
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\bin\Debug\Araba_yarisi.exe
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\bin\Debug\Araba_yarisi.pdb
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.Form1.resources
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.Properties.Resources.resources
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.exe
+C:\Users\Dell\Desktop\Araba_yarisi\Araba_yarisi\obj\Debug\Araba_yarisi.pdb
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\bin\Debug\Araba_yarisi.exe.config
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\bin\Debug\Araba_yarisi.exe
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\bin\Debug\Araba_yarisi.pdb
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.Form1.resources
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.Properties.Resources.resources
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.exe
+C:\Users\Dell\Desktop\burak\okul\Staj\Oyun\arabaOyunuOtomatikVeKlavyeBeraber\Araba_yarisi\obj\Debug\Araba_yarisi.pdb
